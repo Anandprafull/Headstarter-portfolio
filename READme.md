@@ -3,8 +3,6 @@
 ## Overview
 This is the readme for my developer portfolio website. The portfolio showcases projects, skills, experience, and contact information. It is built using modern web technologies.
 
-[Developer Portfolio](#)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
